@@ -1,0 +1,14 @@
+public class var_keyword {
+    public static void main(String[] args) {
+        var name = "Vaishnavi";     
+        var age = 21;            
+        var grade = 8.7;            
+        var isPassed = true;       
+
+        System.out.println("Student Details:");
+        System.out.println("Name: " + name);
+        System.out.println("Age: " + age);
+        System.out.println("Grade: " + grade);
+        System.out.println("Passed: " + isPassed);
+    }
+}
